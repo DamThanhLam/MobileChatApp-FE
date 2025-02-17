@@ -112,4 +112,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Contact
-For questions or feedback, please contact [daongocanhkhoi@gmail.com].
+For questions or feedback, please contact [ldamthanh62@gmail.com].
